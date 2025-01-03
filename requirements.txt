@@ -1,7 +1,7 @@
 Flask
-opencv-python
-numpy
+opencv-python==4.6.0.66
+numpy==1.21.4
 aspose-slides
-aspose-pydrawing
+aspose-pydrawing==1.8.0
 cvzone
 flask-cors
