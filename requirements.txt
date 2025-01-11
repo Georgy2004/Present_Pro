@@ -6,3 +6,4 @@ opencv-python-headless==4.7.0.72
 aspose-slides==23.1.0
 aspose-pydrawing==23.1.0
 cvzone==1.5.0
+python==3.10.11
